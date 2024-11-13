@@ -56,7 +56,7 @@ Default settings can be modified in `config.json`:
 
 ## License
 
-[Your chosen license]
+[MIT]
 
 ## Disclaimer
 
